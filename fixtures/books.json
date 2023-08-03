@@ -1,0 +1,56 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "name": "Война и мир",
+      "author": "Лев Николаевич Толстой",
+      "pub_date": "2018-02-27"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "1984",
+      "author": "Джордж Оруэлл",
+      "pub_date": "2018-09-07"
+    }
+  },
+   {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "name": "Скотный двор",
+      "author": "Джордж Оруэлл",
+      "pub_date": "2018-09-21"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "name": "Задача трех тел",
+      "author": "Лю Цысинь",
+      "pub_date": "2018-09-21"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+      "name": "Темный лес",
+      "author": "Лю Цысинь",
+      "pub_date": "2018-11-11"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 6,
+    "fields": {
+      "name": "Вечная жизнь смерти",
+      "author": "Лю Цысинь",
+      "pub_date": "2022-02-24"
+    }
+  }
+]
